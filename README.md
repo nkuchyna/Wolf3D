@@ -22,10 +22,6 @@ BONUS PART
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://github.com/nkuchyna/Wolf3D/blob/master/screenshots/main.png" data-canonical-src="main" width="400"/></td>
-    <td><img src="https://github.com/nkuchyna/Wolf3D/blob/master/screenshots/level1.png" data-canonical-src="level1" width="400"/></td> 
-  </tr>
-  <tr>
     <td><img src="https://github.com/nkuchyna/Wolf3D/blob/master/screenshots/gates.png" data-canonical-src="gates" width="400"/></td>
     <td><img src="https://github.com/nkuchyna/Wolf3D/blob/master/screenshots/level2.png" data-canonical-src="level2" width="400"/></td> 
   </tr>
