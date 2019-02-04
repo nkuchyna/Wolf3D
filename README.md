@@ -21,15 +21,3 @@ BONUS PART
  Click to watch project video on YouTube:
  
 [![Watch project video](https://i.imgflip.com/2stqpw.gif)](https://www.youtube.com/watch?v=PiSULjeYTfo)
-
-<p align="center"><<-------------SCREENSHOTS------------->></p>
-<table style="width:100%">
-  <tr>
-    <td><img src="https://github.com/nkuchyna/Wolf3D/blob/master/screenshots/gates.png" data-canonical-src="gates" width="400"/></td>
-    <td><img src="https://github.com/nkuchyna/Wolf3D/blob/master/screenshots/level2.png" data-canonical-src="level2" width="400"/></td> 
-  </tr>
-  <tr>
-    <td><img src="https://github.com/nkuchyna/Wolf3D/blob/master/screenshots/level3.png" data-canonical-src="level3" width="400"/></td>
-     <td><img src="https://github.com/nkuchyna/Wolf3D/blob/master/screenshots/final.png" data-canonical-src="final" width="400"/></td>
-  </tr>
-</table>
