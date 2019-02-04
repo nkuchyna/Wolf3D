@@ -1,0 +1,17 @@
+1 1 1 1 1 1 1 1 1 2 2 1 1
+2 p 0 0 0 0 0 1 0 0 0 0 1
+1 0 1 1 1 0 0 1 0 0 0 0 1
+1 0 1 0 0 0 0 0 0 0 0 0 1
+1 0 1 0 0 1 0 0 1 1 1 1 1
+1 0 1 2 2 1 0 0 1 2 e 2 1
+1 0 0 0 0 0 0 0 1 0 0 0 1
+1 0 0 1 1 0 1 0 1 0 0 0 1
+1 0 0 1 0 0 1 0 0 0 0 0 1
+1 1 1 1 1 1 1 1 1 1 1 1 1
+
+*TEXTURE/COLOR*
+1 - textures/wall1.bmp
+2 - textures/wall2.bmp
+3 - textures/wall3.bmp
+4 - textures/wall4.bmp
+5 - textures/wall5.bmp
