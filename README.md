@@ -19,3 +19,18 @@ BONUS PART
 - simple light management.
 
 [![Watch project video](https://i.imgflip.com/2stqpw.gif)](https://www.youtube.com/watch?v=PiSULjeYTfo)
+
+<table style="width:100%">
+  <tr>
+    <td><img src="https://github.com/nkuchyna/Wolf3D/blob/master/screenshots/main.png" data-canonical-src="main" width="400"/></td>
+    <td><img src="https://github.com/nkuchyna/Wolf3D/blob/master/screenshots/level1.png" data-canonical-src="level1" width="400"/></td> 
+  </tr>
+  <tr>
+    <td><img src="https://github.com/nkuchyna/Wolf3D/blob/master/screenshots/gates.png" data-canonical-src="gates" width="400"/></td>
+    <td><img src="https://github.com/nkuchyna/Wolf3D/blob/master/screenshots/level2.png" data-canonical-src="level2" width="400"/></td> 
+  </tr>
+  <tr>
+    <td><img src="https://github.com/nkuchyna/Wolf3D/blob/master/screenshots/level3.png" data-canonical-src="level3" width="400"/></td>
+     <td><img src="https://github.com/nkuchyna/Wolf3D/blob/master/screenshots/final.png" data-canonical-src="final" width="400"/></td>
+  </tr>
+</table>
