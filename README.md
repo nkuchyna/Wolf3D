@@ -18,8 +18,10 @@ BONUS PART
 - floor and ceiling texturing;
 - simple light management.
 
+Click to watch project video on YouTube:
 [![Watch project video](https://i.imgflip.com/2stqpw.gif)](https://www.youtube.com/watch?v=PiSULjeYTfo)
 
+<p align="center"><<-------------SCREENSHOTS------------->></p>
 <table style="width:100%">
   <tr>
     <td><img src="https://github.com/nkuchyna/Wolf3D/blob/master/screenshots/gates.png" data-canonical-src="gates" width="400"/></td>
