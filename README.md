@@ -10,6 +10,9 @@ Simple game based on ray casting with dynamic view inside a maze, in which youâ€
 - The goal of the game - to find exit from the maze.
 - Control - WASD or arrows, M - menu.
 
+<table style="width:100%">
+  <tr>
+    <td>
 BONUS PART
 - levels;
 - simple torch animation;
@@ -17,9 +20,11 @@ BONUS PART
 - textures management from level maps;
 - floor and ceiling texturing;
 - simple light management.
-
-Click to watch project video on YouTube:
-[![Watch project video](https://i.imgflip.com/2stqpw.gif)](https://www.youtube.com/watch?v=PiSULjeYTfo)
+    </td>
+    <td>Click to watch project video on YouTube:
+[![Watch project video](https://i.imgflip.com/2stqpw.gif)](https://www.youtube.com/watch?v=PiSULjeYTfo)</td> 
+  </tr>
+</table>
 
 <p align="center"><<-------------SCREENSHOTS------------->></p>
 <table style="width:100%">
